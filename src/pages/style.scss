@@ -35,7 +35,7 @@ $aside-width: 35%;
   }
   @include media('>=medium', '<large') {
     $main-width: 70%;
-    $main-margin-right: 30%;
+    $main-margin-right: 0%;
     $vertical-padding: 50px;
     $horizontal-padding: 8%;
 
