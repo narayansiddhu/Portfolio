@@ -15,7 +15,7 @@ const IndexPage = () => (
 
        
           <h3 className="bold">MERN stack developer. I am looking out for opportunities. Technologies i have used</h3>  
-          <h3 className="bold"> | C | Java | HTML5 | CSS | node.js | Express.js | MongoDB | Postgres | Mysql | React.js | Docker | Heroku | </h3>
+          <h4 className="bold"> | C | Java | HTML5 | CSS | node.js | Express.js | MongoDB | Postgres | Mysql | React.js | Docker | Heroku | </h4>
         
 
         <ExperienceSection />
